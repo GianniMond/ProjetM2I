@@ -1,0 +1,15 @@
+.header{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: cadetblue;
+    background-color: whitesmoke;
+    height: 100px;
+    border-bottom: 5px solid grey;
+
+}
+
+.title{
+        font-weight: bold;
+}

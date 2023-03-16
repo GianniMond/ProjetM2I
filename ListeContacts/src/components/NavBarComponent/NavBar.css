@@ -1,0 +1,21 @@
+.navbar{
+    background-color: cadetblue;
+    padding: 10px;
+    display: block;
+}
+
+.bouton{
+    border-radius: 9%;
+    border: 1px solid white;
+    background-color: white;
+    margin: 0 15px;
+}
+
+.bouton a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+font-weight: bold;
+}

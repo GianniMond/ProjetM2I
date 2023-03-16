@@ -1,0 +1,35 @@
+h1{
+    margin-bottom: 100px;
+    padding-top: 100px;
+}
+
+.left{
+    border: 5px solid whitesmoke;
+    border-radius: 2%;
+}
+
+.right{
+    border: 5px solid whitesmoke;
+    border-radius: 2%;
+}
+.container{
+    margin-top: 40px;
+    border: 5px solid cadetblue;
+}
+.boutons{
+    border-radius: 30%;
+    border: 1px solid white;
+    background-color: white;
+    margin: 0 15px;
+}
+
+.boutons a{
+    text-decoration: none;
+    color: black;
+}
+
+#pos{
+    font-size: 50px;
+    position: relative;
+    top : 95px;
+    }

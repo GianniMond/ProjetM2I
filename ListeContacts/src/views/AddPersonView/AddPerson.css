@@ -1,0 +1,12 @@
+
+.bordure{
+    border: 5px solid whitesmoke;
+}
+.top{
+font-weight: bold;
+font-family:Verdana, Tahoma;
+}
+
+.btn{
+    border: 3px solid cadetblue;
+}
