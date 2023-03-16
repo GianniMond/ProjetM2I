@@ -1,0 +1,34 @@
+html body {
+    background-color: wheat;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    height: 80%;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    margin-top: 15%;
+}
+
+#ligne1 {
+    margin: 20px;
+}
+
+.lead {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #2B2B2B;
+    margin-bottom: 2rem;
+}
+
+.btn {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: none;
+    margin: 2px;
+}
